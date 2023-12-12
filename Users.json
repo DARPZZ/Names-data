@@ -1,0 +1,103 @@
+[
+    
+    {
+        "name": "Rasmus Toft",
+        "Password": "r",
+        "email" : "ralle@gmail.com"
+    },
+    {
+        "name": "Jens Hansen",
+        "Password": "J3nsSikker2023!",
+        "email" : "jens@email.com"
+    },
+    {
+        "name": "Mette Mink",
+        "Password": "M3tteStærk2023!",
+        "email" : "mette@email.com"
+    },
+    {
+        "name": "Lars Bøje",
+        "Password": "L4rsRobust2023!",
+        "email" : "lars@email.com"
+    },
+    {
+        "name": "Hanne Hansen",
+        "Password": "H4nneSolid2023!",
+        "email" : "hanne@email.com"
+    },
+    {
+        "name": "Frederik Mønster",
+        "Password": "Fr3derik2023!",
+        "email" : "frederik@email.com"
+    },
+    {
+        "name": "Louise Hansen",
+        "Password": "L0uise2023!",
+        "email" : "louise@email.com"
+    },
+    {
+        "name": "Martin Pedersen",
+        "Password": "M4rtin2023!",
+        "email" : "martin@email.com"
+    },
+    {
+        "name": "Ida Nielsen",
+        "Password": "Id4Strong2023!",
+        "email" : "ida@email.com"
+    },
+    {
+        "name": "Andreas Jensen",
+        "Password": "Andr3as2023!",
+        "email" : "andreas@email.com"
+    },
+    {
+        "name": "Sofie Madsen",
+        "Password": "S0fie2023!",
+        "email" : "sofie@email.com"
+    },
+    {
+        "name": "Mikkel Hansen",
+        "Password": "M1kkel2023!",
+        "email" : "mikkel@email.com"
+    },
+    {
+        "name": "Emma Christensen",
+        "Password": "Emm4Strong2023!",
+        "email" : "emma@email.com"
+    },
+    {
+        "name": "Lucas Lund",
+        "Password": "Luc4s2023!",
+        "email" : "lucas@email.com"
+    },
+    {
+        "name": "Olivia Dahl",
+        "Password": "0livia2023!",
+        "email" : "olivia@email.com"
+    },
+    {
+        "name": "Oscar Mortensen",
+        "Password": "0scar2023!",
+        "email" : "oscar@email.com"
+    },
+    {
+        "name": "Victoria Poulsen",
+        "Password": "V1ctoria2023!",
+        "email" : "victoria@email.com"
+    },
+    {
+        "name": "William Thomsen",
+        "Password": "W1lliam2023!",
+        "email" : "william@email.com"
+    },
+    {
+        "name": "Ella Sørensen",
+        "Password": "Ell4Strong2023!",
+        "email" : "ella@email.com"
+    },
+    {
+        "name": "Noah Rasmussen",
+        "Password": "N0ah2023!",
+        "email" : "noah@email.com"
+    }
+]

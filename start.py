@@ -1,6 +1,6 @@
 import json
 import requests
-
+from users import send_post_request
 def post_data_from_csv():
     login_url = "http://localhost:5000/login"
     names_url = "http://localhost:5000/names"
@@ -31,11 +31,12 @@ def post_data_from_csv():
 
                     names_response = session.post(names_url, json=names_json_body)
 
-                    if names_response.status_code == 200:
-                        print(f"API call for {name} successful. Response:")
-                        print(names_response.text)
+                    if names_response.status_code == 201:
+                        print(f"API call for {name} successful. Response:{names_response.status_code}")
+                    
                     else:
                         print(f"API call for {name} failed. Status code: {names_response.status_code}")
 
 if __name__ == "__main__":
+    send_post_request()
     post_data_from_csv()
