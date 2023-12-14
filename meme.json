@@ -1,11 +1,11 @@
 {"objectID":"000000000000000000000000","name":"Ella","gender":1,"isInternational":false,"popularity":1,"occurrences":24}
-{"objectID":"000000000000000000000000","name":"Freja","gender":1,"isInternational":false,"popularity":2,"occurrences":143}
+{"objectID":"000000000000000000000000","name":"Freja","gender":2,"isInternational":false,"popularity":2,"occurrences":143}
 {"objectID":"000000000000000000000000","name":"Alma","gender":1,"isInternational":false,"popularity":3,"occurrences":158}
 {"objectID":"000000000000000000000000","name":"Frida","gender":1,"isInternational":false,"popularity":4,"occurrences":68}
 {"objectID":"000000000000000000000000","name":"Agnes","gender":1,"isInternational":false,"popularity":5,"occurrences":133}
 {"objectID":"000000000000000000000000","name":"Luna","gender":1,"isInternational":false,"popularity":6,"occurrences":25}
 {"objectID":"000000000000000000000000","name":"Ida","gender":1,"isInternational":false,"popularity":7,"occurrences":182}
-{"objectID":"000000000000000000000000","name":"Nora","gender":1,"isInternational":false,"popularity":8,"occurrences":191}
+{"objectID":"000000000000000000000000","name":"Nora","gender":2,"isInternational":false,"popularity":8,"occurrences":191}
 {"objectID":"000000000000000000000000","name":"Olivia","gender":1,"isInternational":false,"popularity":9,"occurrences":14}
 {"objectID":"000000000000000000000000","name":"Sofia","gender":1,"isInternational":false,"popularity":10,"occurrences":22}
 {"objectID":"000000000000000000000000","name":"Emma","gender":1,"isInternational":false,"popularity":11,"occurrences":91}
@@ -18,7 +18,7 @@
 {"objectID":"000000000000000000000000","name":"Anna","gender":1,"isInternational":false,"popularity":18,"occurrences":107}
 {"objectID":"000000000000000000000000","name":"Ellen","gender":1,"isInternational":false,"popularity":19,"occurrences":26}
 {"objectID":"000000000000000000000000","name":"Esther","gender":1,"isInternational":false,"popularity":20,"occurrences":33}
-{"objectID":"000000000000000000000000","name":"Astrid","gender":1,"isInternational":false,"popularity":21,"occurrences":8}
+{"objectID":"000000000000000000000000","name":"Astrid","gender":2,"isInternational":false,"popularity":21,"occurrences":8}
 {"objectID":"000000000000000000000000","name":"Isabella","gender":1,"isInternational":false,"popularity":22,"occurrences":196}
 {"objectID":"000000000000000000000000","name":"Lærke","gender":1,"isInternational":false,"popularity":23,"occurrences":87}
 {"objectID":"000000000000000000000000","name":"Josefine","gender":1,"isInternational":false,"popularity":24,"occurrences":51}
@@ -48,7 +48,7 @@
 {"objectID":"000000000000000000000000","name":"Ingrid","gender":1,"isInternational":false,"popularity":48,"occurrences":139}
 {"objectID":"000000000000000000000000","name":"Rosa","gender":1,"isInternational":false,"popularity":49,"occurrences":134}
 {"objectID":"000000000000000000000000","name":"Emilie","gender":1,"isInternational":false,"popularity":50,"occurrences":154}
-{"objectID":"000000000000000000000000","name":"William","gender":0,"isInternational":false,"popularity":1,"occurrences":118}
+{"objectID":"000000000000000000000000","name":"William","gender":2,"isInternational":false,"popularity":1,"occurrences":118}
 {"objectID":"000000000000000000000000","name":"Karl","gender":0,"isInternational":false,"popularity":2,"occurrences":50}
 {"objectID":"000000000000000000000000","name":"Emil","gender":0,"isInternational":false,"popularity":3,"occurrences":143}
 {"objectID":"000000000000000000000000","name":"Oscar","gender":0,"isInternational":false,"popularity":4,"occurrences":146}
@@ -60,7 +60,7 @@
 {"objectID":"000000000000000000000000","name":"Oliver","gender":0,"isInternational":false,"popularity":10,"occurrences":0}
 {"objectID":"000000000000000000000000","name":"Lucas","gender":0,"isInternational":false,"popularity":11,"occurrences":20}
 {"objectID":"000000000000000000000000","name":"Alfred","gender":0,"isInternational":false,"popularity":12,"occurrences":194}
-{"objectID":"000000000000000000000000","name":"Theo","gender":0,"isInternational":false,"popularity":13,"occurrences":1}
+{"objectID":"000000000000000000000000","name":"Theo","gender":2,"isInternational":false,"popularity":13,"occurrences":1}
 {"objectID":"000000000000000000000000","name":"Elias","gender":0,"isInternational":false,"popularity":14,"occurrences":39}
 {"objectID":"000000000000000000000000","name":"Arthur","gender":0,"isInternational":false,"popularity":15,"occurrences":92}
 {"objectID":"000000000000000000000000","name":"Otto","gender":0,"isInternational":false,"popularity":16,"occurrences":0}
@@ -76,7 +76,7 @@
 {"objectID":"000000000000000000000000","name":"Lauge","gender":0,"isInternational":false,"popularity":26,"occurrences":79}
 {"objectID":"000000000000000000000000","name":"Anton","gender":0,"isInternational":false,"popularity":27,"occurrences":54}
 {"objectID":"000000000000000000000000","name":"Theodor","gender":0,"isInternational":false,"popularity":28,"occurrences":194}
-{"objectID":"000000000000000000000000","name":"Anker","gender":0,"isInternational":false,"popularity":29,"occurrences":182}
+{"objectID":"000000000000000000000000","name":"Anker","gender":2,"isInternational":false,"popularity":29,"occurrences":182}
 {"objectID":"000000000000000000000000","name":"Konrad","gender":0,"isInternational":false,"popularity":30,"occurrences":107}
 {"objectID":"000000000000000000000000","name":"Nohr","gender":0,"isInternational":false,"popularity":31,"occurrences":186}
 {"objectID":"000000000000000000000000","name":"Holger","gender":0,"isInternational":false,"popularity":32,"occurrences":118}
@@ -91,10 +91,10 @@
 {"objectID":"000000000000000000000000","name":"Albert","gender":0,"isInternational":false,"popularity":41,"occurrences":183}
 {"objectID":"000000000000000000000000","name":"Pelle","gender":0,"isInternational":false,"popularity":42,"occurrences":64}
 {"objectID":"000000000000000000000000","name":"Milas","gender":0,"isInternational":false,"popularity":43,"occurrences":178}
-{"objectID":"000000000000000000000000","name":"Walter","gender":0,"isInternational":false,"popularity":44,"occurrences":130}
+{"objectID":"000000000000000000000000","name":"Walter","gender":2,"isInternational":false,"popularity":44,"occurrences":130}
 {"objectID":"000000000000000000000000","name":"Marius","gender":0,"isInternational":false,"popularity":45,"occurrences":117}
 {"objectID":"000000000000000000000000","name":"Vilhelm","gender":0,"isInternational":false,"popularity":46,"occurrences":54}
 {"objectID":"000000000000000000000000","name":"Asger","gender":0,"isInternational":false,"popularity":47,"occurrences":96}
-{"objectID":"000000000000000000000000","name":"Johan","gender":0,"isInternational":false,"popularity":48,"occurrences":113}
+{"objectID":"000000000000000000000000","name":"Johan","gender":2,"isInternational":false,"popularity":48,"occurrences":113}
 {"objectID":"000000000000000000000000","name":"Christian","gender":0,"isInternational":false,"popularity":49,"occurrences":151}
 {"objectID":"000000000000000000000000","name":"Villads","gender":0,"isInternational":false,"popularity":50,"occurrences":18}
